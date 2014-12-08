@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Tic Toe ",
+  "description": "One and Two player game",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+	 "default_popup": "index.html"
+    
+  },
+  "permissions": [
+          "tabs"
+        ]
+}
